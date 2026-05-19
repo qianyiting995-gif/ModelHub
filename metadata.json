@@ -1,0 +1,6 @@
+{
+  "name": "ModelHub - 算法模型管理平台",
+  "description": "一个专业的算法模型管理与编排平台，支持 Agent、聊天助手、文本生成等多种模型的创建与管理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
